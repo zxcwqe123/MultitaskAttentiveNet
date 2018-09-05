@@ -4,9 +4,9 @@ Requirments: python 3.5+, tensorflow 1.6+, keras 2.0+, NLTK
 
 # Preparetion 
 Download embedding dictionary on https://nlp.stanford.edu/projects/glove/
-Unzip
+
 # Running
 python MAIN.py
 
 # Note
-The parameters can be set at the top " part" in MAIN.py
+The data path and model parameters can be set at the top lines of MAIN.py.
