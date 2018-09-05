@@ -1,3 +1,12 @@
 # PRQA-MultitaskAttentiveNet
 Sourcecodes for "Answer Identification from Product Reviews for User Questions by Multi-task Attentive Network"
 Requirments: python 3.5+, tensorflow 1.6+, keras 2.0+, NLTK
+
+# Preparetion 
+Download embedding dictionary on https://nlp.stanford.edu/projects/glove/
+Unzip
+# Running
+python MAIN.py
+
+# Note
+The parameters can be set at the top " part" in MAIN.py
