@@ -3,7 +3,7 @@ Data and codes for "Answer Identification from Product Reviews for User Question
 Requirments: python 3.5+, tensorflow 1.6+, keras 2.0+, NLTK
 
 # Preparetion 
-Download embedding dictionary on https://nlp.stanford.edu/projects/glove/
+Download pre-trained embedding dictionary on https://nlp.stanford.edu/projects/glove/
 
 # Running
 python MAIN.py
